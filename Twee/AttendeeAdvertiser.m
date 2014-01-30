@@ -10,7 +10,7 @@
 
 #define NOTIFY_MTU	20
 
-NSString* const kAttendeeServiceUUIDString			= @"2C593601-DC31-4A04-9B80-063EC858ED5A";
+NSString* const kAttendeeServiceUUIDString			= @"88B477FB-6CA7-4F9C-A191-CE324C200C51";
 NSString* const kCharacteristicTwitterIDUUIDString	= @"FD94EED4-769C-4F1A-A3C1-7A5F17D40C8F";
 
 
